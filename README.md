@@ -10,7 +10,7 @@ Heightmaps are store in `heightmaps` folder.
 
 ## Code
 
-Contains scripts for `generate`-ing traversability datasets `train`-ning a CNN estimator and `estimate`-ing traversability on evaluation heightmaps.
+Contains scripts for generating traversability datasets training a CNN estimator and estimating traversability on evaluation heightmaps.
 
 ## Results
 
@@ -19,11 +19,13 @@ Here are some results from traversability on different heightmaps:
 
 ## Requirements
 
-In order to test the source code, several frameworks/libraries are needed:
-- python > 3
-- pandas
-- tensorflow
-- keras
-- scikit-learn
-- scikit-image
-- joblib
+In order to test the source code, several frameworks/libraries are needed.
+- python 3.5.3
+- numpy 1.12.1
+- matplotlib 2.0.0
+- pandas 0.19.2
+- tensorflow-gpu 1.0
+- keras 2.0.3
+- scikit-learn 0.18.1
+- scikit-image 0.13.0
+- joblib 0.11
