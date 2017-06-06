@@ -8,8 +8,6 @@ Contains data from simulated trajectories in v-rep simulator. Data is in cvs. A 
 
 Heightmaps are store in `heightmaps` folder.
 
-> under construction
-
 ## Code
 
 Contains scripts for generating traversability datasets training a CNN estimator and estimating traversability on evaluation heightmaps.
