@@ -21,11 +21,11 @@ Here are some results from traversability on different heightmaps:
 
 Animation of the mining quarry elevation map.
 
-[Mining quarry](results/quarry_360.gif "Mining quarry")
+![](results/quarry_360.gif "Mining quarry")
 
 Overlay of minimum traversability estimation on the mining quarry. Traversability for 32 different orientaitons were computed, then the minimum traversability estimation for each patch was choosen. 
 
-[Minimum traversability on the mining quarry](results/quarry_traversability_360.gif "Minimum traversability on the mining quarry")
+![](results/quarry_traversability_360.gif "Minimum traversability on the mining quarry")
 
 ## Requirements
 
