@@ -17,13 +17,13 @@ Contains scripts for generating traversability datasets training a CNN estimator
 > under construction
 
 ## Results
-Here are some results from traversability on different heightmaps:
+Here are some results from the traversability estimation approached.
 
 Animation of the mining quarry elevation map.
 
 ![](results/quarry_360.gif "Mining quarry")
 
-Overlay of minimum traversability estimation on the mining quarry. Traversability for 32 different orientaitons were computed, then the minimum traversability estimation for each patch was choosen. 
+Overlay of minimum traversability estimation on the mining quarry. Traversability for 32 different orientations were computed, then the minimum traversability estimation for each patch was chosen. Green indicates traversability.
 
 ![](results/quarry_traversability_360.gif "Minimum traversability on the mining quarry")
 
