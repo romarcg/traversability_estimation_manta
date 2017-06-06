@@ -23,7 +23,7 @@ Here are some results from traversability on different heightmaps:
 
 ## Requirements
 
-In order to test the source code, several frameworks/libraries are needed.
+In order to test the source code, these frameworks/libraries are needed.
 - python 3.5.3
 - numpy 1.12.1
 - matplotlib 2.0.0
