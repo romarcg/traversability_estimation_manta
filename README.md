@@ -12,7 +12,7 @@ Heightmaps are store in `heightmaps` folder.
 
 Contains scripts for generating traversability datasets training a CNN estimator and estimating traversability on evaluation heightmaps.
 
-> under construction
+(Refer to this repository)[https://bitbucket.org/romarcg/traversability_graphs_dataset]
 
 ## Results
 Here are some results from the traversability estimation approached.
